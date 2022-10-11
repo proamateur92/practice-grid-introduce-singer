@@ -1,0 +1,22 @@
+:root {
+  --color-main: #38c4f5;
+  --color-black: #ffffff;
+  --color-white: #000000;
+  --color-main-font: #d2e08c;
+  --color-light-grey: #f5f5f6;
+  --color-dark-grey: ##e1e2e1;
+}
+
+html,
+body {
+  margin: 0;
+}
+.intro {
+  background-color: var(--color-light-grey);
+}
+
+.album {
+  background-color: var(--color-main);
+}
+/* var(--font-size) */
+/* calc(var(--base-space)) */
